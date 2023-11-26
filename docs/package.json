@@ -33,7 +33,6 @@
     "react-draft-wysiwyg": "^1.14.3",
     "react-router": "^5.1.2",
     "react-transform-catch-errors": "^1.0.2",
-    "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.6.0",
     "rimraf": "^3.0.0",
     "style-loader": "^1.0.1",
